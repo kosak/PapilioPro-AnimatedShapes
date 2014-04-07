@@ -1,0 +1,2 @@
+vhdl work ../../VGAClock.vhd
+vhdl work ../example_design/VGAClock_exdes.vhd

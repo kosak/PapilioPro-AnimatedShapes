@@ -1,0 +1,11 @@
+NET "CLK" LOC = P94 | IOSTANDARD = "LVTTL" | PERIOD = 31.25 ns HIGH 50%;               # CLK
+NET "VGA_VSYNC" LOC = P99 | IOSTANDARD = "LVTTL";                                # B0
+NET "VGA_HSYNC" LOC = P97 | IOSTANDARD = "LVTTL";                                # B1
+NET "VGA_BLUE(0)" LOC = P92 | IOSTANDARD = "LVTTL";                                # B2
+NET "VGA_BLUE(1)" LOC = P87 | IOSTANDARD = "LVTTL";                                # B3
+NET "VGA_GREEN(0)" LOC = P84 | IOSTANDARD = "LVTTL";                                # B4
+NET "VGA_GREEN(1)" LOC = P82 | IOSTANDARD = "LVTTL";                                # B5
+NET "VGA_GREEN(2)" LOC = P80 | IOSTANDARD = "LVTTL";                                # B6
+NET "VGA_RED(0)" LOC = P78 | IOSTANDARD = "LVTTL";                                # B7
+NET "VGA_RED(1)" LOC = P74 | IOSTANDARD = "LVTTL";                                # B8
+NET "VGA_RED(2)" LOC = P95 | IOSTANDARD = "LVTTL";                                # B9
